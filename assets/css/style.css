@@ -200,7 +200,7 @@ a{
 	display: inline-block;
 	width: 200px;
 	height: 80px;
-	background-image: url('../images/common/logo.jpg');
+	background-image: url('../images/common/llogo.png');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -376,7 +376,7 @@ a{
 .jumbotron .logo-image{
 	width: 320px;
 	height: 320px;
-	background-image: url('../images/common/logo-w.png');
+	background-image: url('../images/common/logoo.png');
 	background-position: center;
 	background-size: contain;
 	background-repeat: no-repeat;
